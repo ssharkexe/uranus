@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/модуль-3.7.2-388bfd?style=flat-square" alt="Magisk module 3.7.2">
-  <img src="https://img.shields.io/badge/APK-3.7.2-388bfd?style=flat-square" alt="APK 3.7.2">
+  <img src="https://img.shields.io/badge/модуль-3.7.3-388bfd?style=flat-square" alt="Magisk module 3.7.3">
+  <img src="https://img.shields.io/badge/APK-3.7.3-388bfd?style=flat-square" alt="APK 3.7.3">
   <img src="https://img.shields.io/badge/платформа-SX11A3%20Battle%20Edition-161b22?style=flat-square" alt="SX11A3 Battle Edition">
   <img src="https://img.shields.io/badge/Magisk-обязателен-1f883d?style=flat-square" alt="Magisk">
   <img src="https://img.shields.io/badge/Android-9-3ddc84?style=flat-square" alt="Android 9">
