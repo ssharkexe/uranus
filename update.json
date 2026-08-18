@@ -1,6 +1,6 @@
 {
-    "version": "3.8",
-    "versionCode": 438,
-    "zipUrl": "https://github.com/ssharkexe/uranus/releases/download/v3.8/uranus.zip",
-    "changelog": "https://raw.githubusercontent.com/ssharkexe/uranus/main/changelog/3.8.txt"
+    "version": "4.0 beta",
+    "versionCode": 470,
+    "zipUrl": "https://github.com/ssharkexe/uranus/releases/download/v4.0-beta/uranus.zip",
+    "changelog": "https://raw.githubusercontent.com/ssharkexe/uranus/main/changelog/4.0%20beta.txt"
 }
