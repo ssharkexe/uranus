@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/модуль-3.8-388bfd?style=flat-square" alt="Magisk module 3.8">
-  <img src="https://img.shields.io/badge/APK-3.8-388bfd?style=flat-square" alt="APK 3.8">
+  <img src="https://img.shields.io/badge/модуль-4.0%20beta-388bfd?style=flat-square" alt="Magisk module 4.0 beta">
+  <img src="https://img.shields.io/badge/APK-4.0%20beta-388bfd?style=flat-square" alt="APK 4.0 beta">
   <img src="https://img.shields.io/badge/платформа-SX11A3%20Battle%20Edition-161b22?style=flat-square" alt="SX11A3 Battle Edition">
   <img src="https://img.shields.io/badge/Magisk-обязателен-1f883d?style=flat-square" alt="Magisk">
   <img src="https://img.shields.io/badge/Android-9-3ddc84?style=flat-square" alt="Android 9">
@@ -193,6 +193,7 @@
 | Файл                      | Назначение                                           |
 | ------------------------- | ---------------------------------------------------- |
 | `uranus.zip`              | Основной Magisk-модуль (демон, сервисы, патчи OEM)   |
+| `uranus-services-jar.zip` | Пропатченный `services.jar` (громкость, DIM, AMS) *(рекомендуется)* |
 | `uranus-vosk-model.zip`   | Модель Vosk для голоса                               |
 | `uranus-ynavi-magisk.zip` | Пропатченный Я.Навигатор версии 3.85 *(опционально)* |
 | `uranus-xcsettings-magisk.zip` | Патч XCSettings: анимация режима вождения *(опционально)* |
@@ -221,11 +222,12 @@
 
 > 📥 Скачайте установочные файлы из раздела **Releases** репозитория и установите их через Magisk
 
-1. **Magisk** → установить `uranus.zip`
-2. **Magisk** → установить `uranus-vosk-model.zip` → **перезагрузка**
-3. **Magisk** → установить `uranus-ynavi-magisk.zip` *(Опционально)*  → перезагрузка *(трансляция маршрута навигатора в виджет на приборке и применение светлой и темной темы с системы в навигаторе и активация Алисы с кнопки)*
-4. **Magisk** → установить `uranus-xcsettings-magisk.zip` *(Опционально)* → перезагрузка *(отключение анимации смены режима вождения — переключатель в Uranus → «Автомобиль»)*
-5. **APK** → установить `uranus.weather.apk` → для появления виджета погоды в лаунчере
+1. **Magisk** → установить `uranus.zip` → **перезагрузка**
+2. **Magisk** → установить `uranus-services-jar.zip` → **перезагрузка**
+3. **Magisk** → установить `uranus-vosk-model.zip` → **перезагрузка**
+4. **Magisk** → установить `uranus-ynavi-magisk.zip` *(Опционально)*  → перезагрузка *(трансляция маршрута навигатора в виджет на приборке и применение светлой и темной темы с системы в навигаторе и активация Алисы с кнопки)*
+5. **Magisk** → установить `uranus-xcsettings-magisk.zip` *(Опционально)* → перезагрузка *(отключение анимации смены режима вождения — переключатель в Uranus → «Автомобиль»)*
+6. **APK** → установить `uranus.weather.apk` → для появления виджета погоды в лаунчере
 
 > ‼️ После установки необходимо зайти в раздела "Голосовое управение" и перезагрузить голосовые команды, затем переназначить кнопки руля в соответствующем разделе, дать пакету необходимые системные и root права, выключить уведомления root-доступа в Magisk.
 
