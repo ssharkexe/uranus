@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/модуль-4.2-388bfd?style=flat-square" alt="Magisk module 4.2">
-  <img src="https://img.shields.io/badge/APK-4.2-388bfd?style=flat-square" alt="APK 4.2">
+  <img src="https://img.shields.io/badge/модуль-4.0-388bfd?style=flat-square" alt="Magisk module 4.0">
+  <img src="https://img.shields.io/badge/APK-4.0-388bfd?style=flat-square" alt="APK 4.0">
   <img src="https://img.shields.io/badge/платформа-IHU516%20%2F%20IHU535-161b22?style=flat-square" alt="IHU516 / IHU535">
   <img src="https://img.shields.io/badge/Magisk-обязателен-1f883d?style=flat-square" alt="Magisk">
   <img src="https://img.shields.io/badge/Android-9-3ddc84?style=flat-square" alt="Android 9">
@@ -163,15 +163,6 @@
 
 
 
-
-### Uranus 4.2
-
-- Анимация режима вождения: **Полноэкранная / Всплывающая / Нет**; всплывающая — toast Comfort → Adaptive → Sport → Eco
-- Климат: toast при MODE, режим меняется перетаскиванием ползунка
-- Свайп 3 пальцами слева: громкость или температура (шаг 20 px)
-- Скрытие навбара с руля / 2 пальцев; автоскрытие в сплите
-- Фикс полоски громкости, цвета текста статусбара, Start-Stop в Eco (~2 с)
-- Лаунчер: без раздутия стоковой БД; GPS-кэш; автовоспроизведение плеера после старта
 
 ### Uranus 4.0
 
